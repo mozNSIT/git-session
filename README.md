@@ -10,11 +10,9 @@ The task is still active for anybody who wishes to mark thier "Attendance".
 
 for any further queries or questions:
 
-feel free to ping us on our fb page 
-  [Facebook](https://www.facebook.com/mozNSIT)
+feel free to ping us on our [fb page](https://www.facebook.com/mozNSIT)
 
-or join our gitter chat room :
-  [Gitter](https://gitter.im/mozillacampusclubnsit)
+or join our gitter [chat-room](https://gitter.im/mozillacampusclubnsit)
 
 
 
