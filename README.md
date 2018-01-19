@@ -6,7 +6,7 @@ In this repo you'll find "GIT SESSION.docx" containing an excerpt of what all wa
 You will also find a book meant for detailed and advanced git, for anybody who wishes to step further.
 
 The task for the session was to create a pull request for this repository after adding a file of your name.
-The task is still active for anybody who wishes to mark thier "Attendance".
+The task is still active for anybody who wishes to mark their "Attendance".
 
 for any further queries or questions:
 
