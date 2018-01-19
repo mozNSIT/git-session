@@ -9,10 +9,12 @@ The task for the session was to create a pull request for this repository after 
 The task is still active for anybody who wishes to mark thier "Attendance".
 
 for any further queries or questions:
+
 feel free to ping us on our fb page 
-[Facebook](https://www.facebook.com/mozNSIT)
+  [Facebook](https://www.facebook.com/mozNSIT)
+
 or join our gitter chat room :
-[Gitter](https://gitter.im/mozillacampusclubnsit)
+  [Gitter](https://gitter.im/mozillacampusclubnsit)
 
 
 
