@@ -1,8 +1,12 @@
 #include<iostream>
+#include<vector>
 
 using namespace std;
 
 int main(){
-	cout<<"hello world";
+	vector<int> v;
+	for(int i = 0; i<9; i++){
+		v.push_back(i);
+	}
 	return 0;
 }
